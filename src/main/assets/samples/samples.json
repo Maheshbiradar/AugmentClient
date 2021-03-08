@@ -1,0 +1,67 @@
+[
+    {
+        "category_name": "Browsing Pois",
+        "samples": [
+            {
+                "name": "Presenting Details ATMS",
+                "path": "10_BrowsingPois_1_PresentingDetails/index.html",
+                "requiredFeatures": [
+                    "geo"
+                ],
+                "startupConfiguration": {
+                    "camera_resolution": "auto",
+                    "camera_position": "back"
+                }
+            },
+
+            {
+                "name": "Presenting Details Properties",
+                "path": "10_BrowsingPois_1_PresentingDetails_properties/index.html",
+                "requiredFeatures": [
+                    "geo"
+                ],
+                "startupConfiguration": {
+                    "camera_resolution": "auto",
+                    "camera_position": "back"
+                }
+            },
+
+            {
+                "name": "Presenting Details Hospitals",
+                "path": "10_BrowsingPois_1_PresentingDetails_Hospitals/index.html",
+                "requiredFeatures": [
+                    "geo"
+                ],
+                "startupConfiguration": {
+                    "camera_resolution": "auto",
+                    "camera_position": "back"
+                }
+            },
+
+            {
+                "name": "Presenting Details Restuarants",
+                "path": "10_BrowsingPois_1_PresentingDetails_Restuarants/index.html",
+                "requiredFeatures": [
+                    "geo"
+                ],
+                "startupConfiguration": {
+                    "camera_resolution": "auto",
+                    "camera_position": "back"
+                }
+            },
+
+
+            {
+                "name": "Presenting Details Places",
+                "path": "10_BrowsingPois_1_PresentingDetails_places/index.html",
+                "requiredFeatures": [
+                    "geo"
+                ],
+                "startupConfiguration": {
+                    "camera_resolution": "auto",
+                    "camera_position": "back"
+                }
+            }
+        ]
+    }
+]

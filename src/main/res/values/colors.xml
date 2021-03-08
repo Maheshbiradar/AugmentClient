@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wikitude_primary">#00BCD4</color>
+    <color name="wikitude_primary_dark">#006064</color>
+    <color name="wikitude_accent">#00e676</color>
+    <color name="wikitude_primary_text">#ffffff</color>
+    <color name="wikitude_secondary_text">#78909C</color>
+    <color name="wikitude_white">#ffffff</color>
+    <color name="wikitude_divider">#000000</color>
+</resources>
